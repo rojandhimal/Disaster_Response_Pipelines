@@ -13,11 +13,12 @@ Udacity Data Scientist Nano degree project(DSND)
 4. [License](#license)
 5. [Acknowledgement](#acknowledgement)
 6. [Screenshots](#screenshots)
+7. [Future Enhancement](#future_enhancement )
 
 <a name="descripton"></a>
 ## Description
 
-This Project is part of Data Science Nanodegree Program by Udacity. The dataset contains pre-labelled tweet and messages from real-life disaster events. The project aim is to build a Machine learning model to categorize messages on a real time basis.
+This Project is part of Data Science Nanodegree Program by Udacity. The dataset contains pre-labelled tweet and messages from real-life disaster events. The project aim is to build a Machine learning model to categorize messages on a real time basis. 
 
 This project is divided in the following key sections:
 
@@ -97,3 +98,7 @@ git clone https://github.com/rojandhimal/Disaster_Response_Pipelines.git
 
 ![Main Page](images/full_web.png)
 
+
+# Future Enhancement 
+From the message distribution chart we can see that the data are unbalanced. This data can be made balanced by applying databalancing technoque. This can give more accurate model.
+Here we have used Randomforest Algorithm and there are many other algorithm that can give more accurate result. 
