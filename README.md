@@ -98,7 +98,7 @@ git clone https://github.com/rojandhimal/Disaster_Response_Pipelines.git
 
 ![Main Page](images/full_web.png)
 
-
-# Future Enhancement 
+<a name="future_enhancement"></a>
+## Future Enhancement 
 From the message distribution chart we can see that the data are unbalanced. This data can be made balanced by applying databalancing technoque. This can give more accurate model.
 Here we have used Randomforest Algorithm and there are many other algorithm that can give more accurate result. 
