@@ -87,7 +87,7 @@ git clone https://github.com/rojandhimal/Disaster_Response_Pipelines.git
 
 1. This is an example of a message we can type to test the performance of the model
 
-![Sample Input](images/input.PNG)
+![Sample Input](images/input.png)
 
 2. After clicking **Classify Message**, we can see the categories which the message belongs to highlighted in green
 
